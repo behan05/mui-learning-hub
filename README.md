@@ -52,6 +52,7 @@
 - Use `<TextField>` for input fields
 - Explore `<Checkbox>`, `<Radio>`, `<Switch>`, `<Select>`
 - Implement form validation with Yup & Formik
+- Integrate `Controller` from React Hook Form for better form handling
 
 ### 🔹 Mini Project
 
@@ -70,6 +71,11 @@
 
 - Use `<Dialog>` for popups
 - Handle confirmations with `<Snackbar>`
+
+### 🔹 Additional UI Components
+
+- Implement `<Tabs>` for multi-page navigation
+- Use `<Breadcrumbs>` for better UX in navigation
 
 ### 🔹 Mini Project
 
@@ -101,9 +107,27 @@
 ### 🔹 Final Projects to Build:
 
 ✅ **Admin Dashboard** (Tables, Forms, Cards, Charts)
+   - Implement charts using `recharts` or `mui/x-charts`
+   - Add filters and pagination for tables
+
 ✅ **E-commerce UI** (Product Listing, Filters, Cart UI)
+   - Include a **checkout flow** and **product detail page**
+
 ✅ **Job Portal UI** (Cards, Lists, Authentication UI)
+   - Implement authentication UI with Material UI components
+
 ✅ **Blog Website UI** (Typography, Cards, Pagination)
+   - Implement pagination for blog posts
+
+---
+
+## 📌 Bonus: Performance Optimization
+
+### 🔹 Improve MUI Performance
+
+- Reduce re-renders using `React.memo` and `useCallback`
+- Lazy load components using `React.lazy()` and `Suspense`
+- Optimize heavy components with `useMemo`
 
 ---
 
